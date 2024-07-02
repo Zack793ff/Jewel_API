@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+sqlalchemy
+alembic
+pyJWT
+bcrypt
+passlib
+
